@@ -1,6 +1,8 @@
 # SemuaTentangString__JV
 Bahan Ajar Fundamental Pemrogaman Java - Mengenal String dan Berbagai Operasi String di Pemrograman Java.<br><br>
 
+<a href="https://github.com/RizkyKhapidsyah/SemuaTentangString__JV/tree/master/src/com/rizkykhapidsyah/string">Lihat Source Code.</a><br><br>
+
 <img src="https://github.com/RizkyKhapidsyah/SemuaTentangString__JV/blob/master/results/Bagian01_1.PNG">
 <img src="https://github.com/RizkyKhapidsyah/SemuaTentangString__JV/blob/master/results/Bagian01_2.PNG">
 <img src="https://github.com/RizkyKhapidsyah/SemuaTentangString__JV/blob/master/results/Bagian01_3.PNG">
